@@ -1,3 +1,4 @@
+#plantilla webdream
 class mytemplate < Thor
   include Thor::Actions
    #Define arguments and options
